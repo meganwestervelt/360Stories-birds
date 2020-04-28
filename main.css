@@ -2,6 +2,8 @@
 
 .marginphoto {margin: 20px}
 
+.card text-center {justify-content-lg-center}
+
 @media screen and (min-width: 768px) {
     p{column-count:2}
 }
@@ -9,4 +11,3 @@
 @media screen and (min-width: 1024px) {
     p{column-count:3}
 }
-
